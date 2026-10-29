@@ -1,0 +1,25 @@
+Token	Lexeme	Line No
+KEYWORD	int	1
+IDENTIFIER	x	1
+OPERATOR	=	1
+INTEGER	10	1
+SEPARATOR	;	1
+IDENTIFIER	x	2
+OPERATOR	=	2
+IDENTIFIER	x	2
+OPERATOR	+	2
+INTEGER	5	2
+SEPARATOR	;	2
+KEYWORD	char	4
+IDENTIFIER	c	4
+OPERATOR	=	4
+IDENTIFIER	printf	6
+SEPARATOR	(	6
+KEYWORD	int	7
+
+Errors
+Line 4: Char constant too long
+Line 6: String constant exceeds line
+Line 7: Invalid identifier '1y'
+Line 9: Undefined symbol '#'
+Line 11: Un-terminated comment

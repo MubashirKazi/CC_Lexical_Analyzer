@@ -1,0 +1,11 @@
+int x = 10;
+x = x + 5;
+
+char c = 'AB';
+
+printf("Hello
+int 1y = 20;
+
+
+
+/*
